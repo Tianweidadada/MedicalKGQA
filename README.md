@@ -1,9 +1,6 @@
 ## Project description
-* 本项目在[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)基础上改进
-* 完善代码（增加、删除部分逻辑），部分代码重构
-* 完善数据爬取脚本(原代码好像有些问题)
-* **增加可视化部分**
-* **如果觉得有帮助，给个star吧**
+
+* 基于疾病知识图谱的问答系统
 
 ## KGQA Design
 
@@ -172,6 +169,7 @@
 
 * 主界面
   
+
 ![主界面](./images/index.png)
 * 问答界面  
 
